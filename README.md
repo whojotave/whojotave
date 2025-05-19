@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://ibb.co/BbNPCZR" alt="Whojotave Animation" />
+<img src="https://github.com/whojotave/whojotave/blob/main/whojotave_pixel%20(1).gif?raw=true" alt="Whojotave Animation" />
 
 ###
