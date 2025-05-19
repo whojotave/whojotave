@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/whojotave/whojotave/output/snake.svg" alt="Snake animation" />
+<img src="https://ibb.co/BbNPCZR" alt="Whojotave Animation" />
 
 ###
